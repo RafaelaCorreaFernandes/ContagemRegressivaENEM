@@ -62,3 +62,49 @@ h2 { font-size: 28px;
     .tempo p:last-child { 
         font-size: 38px; 
         font-weight: bold; }
+
+    /*MATERIAS*/
+    /* Área das matérias */
+.materias {
+    margin-top: 40px;
+
+    background-color: rgba(255, 255, 255, 0.7);
+
+    padding: 25px 35px;
+
+    border-radius: 20px;
+
+    box-shadow: 0 5px 15px rgba(90, 23, 75, 0.15);
+}
+
+/* Título das matérias */
+.materias h2 {
+    margin-bottom: 20px;
+}
+
+/* Lista de matérias */
+.lista-materias {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+
+    text-align: left;
+}
+
+/* Cada matéria */
+.lista-materias label {
+    font-size: 18px;
+
+    cursor: pointer;
+}
+
+/* Checkbox */
+.lista-materias input {
+    width: 17px;
+    height: 17px;
+
+    margin-right: 8px;
+
+    cursor: pointer;
+     accent-color: #ff69a9;
+}
