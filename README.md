@@ -18,7 +18,7 @@ Criar uma página de estudos para acompanhar a contagem regressiva para o ENEM, 
 
 ---
 
- 🛠️ Tecnologias utilizadas
+ Tecnologias utilizadas
 
 - **HTML5** — estrutura da página;
 - **CSS3** — estilização e layout;
